@@ -1,0 +1,22 @@
+.main{
+    font-size: 14pt;
+    background-color: #0000;
+    color: blue;
+}
+p{
+    text-align: justify;
+    font-size: 14pt;
+    color: oldlace;
+}
+.b{
+    background-image: url('background.jpg');
+    background-repeat: inherit;
+    background-size: cover;
+    
+}
+h3{
+    color: oldlace;
+}
+.m-menu{
+    color: oldlace;
+}

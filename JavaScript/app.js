@@ -13,3 +13,4 @@ let appData = {
 }; 
 console.log(alert(money / 30));
 
+
