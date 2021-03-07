@@ -1,0 +1,36 @@
+body {
+}
+.buttons {
+    display: flex;
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    height: 100px;
+    width: 60%;
+    justify-content: space-around;
+}
+button {
+    margin: 10px;
+    font-size: 24px;
+    color:black;
+    
+}
+
+.but1 {
+    background-color: red;
+}
+.but2 {
+    background-color: blue;
+}
+.but3 {
+    background-color: green;
+}
+.but4 {
+    background-color: yellow;
+}
+.but5 {
+    background-color: pink;
+}
+button:active {
+    background-color: white;
+}

@@ -43,7 +43,7 @@ node.style.color = color
 node.style.textAlign = 'center'
 node.style.backgroundColor = 'black'
 node.style.padding = '2rem'
-node.style.display = 'block'
+x = 'block'
 node.style.width = '100%'
     if (fontSize) {
         node.style.fontSize = fontSize
